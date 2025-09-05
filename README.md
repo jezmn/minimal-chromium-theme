@@ -44,7 +44,7 @@ A collection of minimal dark themes with glowing pastel accents for Chromium bro
 ---
 
 ### Green Glow Theme
-![Green Glow Preview](https://i.ibb.co/7JXk5KcY/Screenshot-2025-09-04-134740.png)
+![Green Glow Preview](https://i.ibb.co/0V8HxMcL/Screenshot-2025-09-05-134035.png)
 
 ---
 
