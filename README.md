@@ -19,12 +19,12 @@ A collection of minimal dark themes with glowing pastel accents for Chromium bro
 ## Theme Previews
 
 ### Catppuccin Theme
-![Catppuccin Preview](https://i.ibb.co/0yb5KYrB/Screenshot-2025-09-05-123650.png)
+![Catppuccin Preview](https://i.ibb.co/hRqqG5VB/Screenshot-2025-09-05-134508.png)
 
 ---
 
 ### Crimson Pastel Theme
-![Crimson Pastel Preview](https://i.ibb.co/KcrQL8Fc/Screenshot-2025-09-05-123900.png)
+![Crimson Pastel Preview](https://i.ibb.co/Ld5sKHqW/Screenshot-2025-09-05-134703.png)
 
 ---
 
@@ -44,7 +44,7 @@ A collection of minimal dark themes with glowing pastel accents for Chromium bro
 ---
 
 ### Green Glow Theme
-![Green Glow Preview](https://i.ibb.co/0V8HxMcL/Screenshot-2025-09-05-134035.png)
+![Green Glow Preview](https://i.ibb.co/R4PcTJrq/Screenshot-2025-09-05-134341.png)
 
 ---
 
