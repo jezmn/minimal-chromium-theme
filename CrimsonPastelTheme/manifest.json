@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "CrimsonPastelTheme",
+  "theme": {
+    "colors": {
+      "frame": [28, 18, 18],
+      "frame_inactive": [28, 18, 18],
+      "toolbar": [38, 24, 24],
+      "toolbar_text": [255, 160, 160],
+      "tab_background_text": [255, 160, 160],
+      "bookmark_text": [255, 160, 160],
+      "toolbar_button_icon": [255, 160, 160],
+      "ntp_background": [38, 24, 24],
+      "ntp_text": [255, 160, 160],
+      "omnibox_background": [38, 24, 24],
+      "omnibox_text": [255, 160, 160],
+      "omnibox_selected_text": [38, 24, 24],
+      "omnibox_text_selected": [38, 24, 24]
+    }
+  }
+}

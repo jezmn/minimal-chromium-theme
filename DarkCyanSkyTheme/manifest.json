@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "DarkCyanSkyTheme",
+  "theme": {
+    "colors": {
+      "frame": [10, 20, 30],
+      "frame_inactive": [10, 20, 30],
+      "toolbar": [18, 28, 40],
+      "toolbar_text": [120, 200, 230],
+      "tab_background_text": [120, 200, 230],
+      "bookmark_text": [120, 200, 230],
+      "toolbar_button_icon": [120, 200, 230],
+      "ntp_background": [18, 28, 40],
+      "ntp_text": [120, 200, 230],
+      "omnibox_background": [18, 28, 40],
+      "omnibox_text": [120, 200, 230],
+      "omnibox_selected_text": [18, 28, 40],
+      "omnibox_text_selected": [18, 28, 40]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "NetherWarpedTheme",
+  "theme": {
+    "colors": {
+      "frame": [10, 20, 20],
+      "frame_inactive": [10, 20, 20],
+      "toolbar": [18, 35, 35],
+      "toolbar_text": [82, 255, 218],
+      "tab_background_text": [82, 255, 218],
+      "bookmark_text": [82, 255, 218],
+      "toolbar_button_icon": [82, 255, 218],
+      "ntp_background": [18, 35, 35],
+      "ntp_text": [82, 255, 218],
+      "omnibox_background": [18, 35, 35],
+      "omnibox_text": [82, 255, 218],
+      "omnibox_selected_text": [18, 35, 35],
+      "omnibox_text_selected": [18, 35, 35]
+    }
+  }
+}

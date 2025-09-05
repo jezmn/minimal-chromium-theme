@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "RoseBlushTheme",
+  "theme": {
+    "colors": {
+      "frame": [30, 20, 28],
+      "frame_inactive": [30, 20, 28],
+      "toolbar": [40, 28, 38],
+      "toolbar_text": [255, 180, 200],
+      "tab_background_text": [255, 180, 200],
+      "bookmark_text": [255, 180, 200],
+      "toolbar_button_icon": [255, 180, 200],
+      "ntp_background": [40, 28, 38],
+      "ntp_text": [255, 180, 200],
+      "omnibox_background": [40, 28, 38],
+      "omnibox_text": [255, 180, 200],
+      "omnibox_selected_text": [40, 28, 38],
+      "omnibox_text_selected": [40, 28, 38]
+    }
+  }
+}

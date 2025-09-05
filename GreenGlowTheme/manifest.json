@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "GreenGlowTheme",
+  "theme": {
+    "colors": {
+      "frame": [26, 30, 20],
+      "frame_inactive": [26, 30, 20],
+      "toolbar": [43, 48, 32],
+      "toolbar_text": [202, 226, 150],
+      "tab_background_text": [202, 226, 150],
+      "bookmark_text": [202, 226, 150],
+      "toolbar_button_icon": [202, 226, 150],
+      "ntp_background": [43, 48, 32],
+      "ntp_text": [202, 226, 150],
+      "omnibox_background": [43, 48, 32],
+      "omnibox_text": [202, 226, 150],
+      "omnibox_selected_text": [43, 48, 32],
+      "omnibox_text_selected": [43, 48, 32]
+    }
+  }
+}

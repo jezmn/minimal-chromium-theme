@@ -1,0 +1,23 @@
+
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "GalaxyTheme",
+  "theme": {
+    "colors": {
+      "frame": [10, 10, 25],
+      "frame_inactive": [10, 10, 25],
+      "toolbar": [20, 15, 35],
+      "toolbar_text": [160, 150, 255],
+      "tab_background_text": [160, 150, 255],
+      "bookmark_text": [160, 150, 255],
+      "toolbar_button_icon": [160, 150, 255],
+      "ntp_background": [20, 15, 35],
+      "ntp_text": [160, 150, 255],
+      "omnibox_background": [20, 15, 35],
+      "omnibox_text": [160, 150, 255],
+      "omnibox_selected_text": [20, 15, 35],
+      "omnibox_text_selected": [20, 15, 35]
+    }
+  }
+}

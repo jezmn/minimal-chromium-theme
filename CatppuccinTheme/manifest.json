@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "CatppuccinTheme",
+  "theme": {
+    "colors": {
+      "frame": [24, 24, 37],
+      "frame_inactive": [24, 24, 37],
+      "toolbar": [30, 30, 46],
+      "toolbar_text": [245, 224, 220],
+      "tab_background_text": [245, 224, 220],
+      "bookmark_text": [245, 224, 220],
+      "toolbar_button_icon": [245, 224, 220],
+      "ntp_background": [30, 30, 46],
+      "ntp_text": [245, 224, 220],
+      "omnibox_background": [30, 30, 46],
+      "omnibox_text": [245, 224, 220],
+      "omnibox_selected_text": [30, 30, 46],
+      "omnibox_text_selected": [30, 30, 46]
+    }
+  }
+}

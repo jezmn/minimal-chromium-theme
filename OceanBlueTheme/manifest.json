@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "OceanBlueTheme",
+  "theme": {
+    "colors": {
+      "frame": [15, 25, 40],
+      "frame_inactive": [15, 25, 40],
+      "toolbar": [25, 45, 70],
+      "toolbar_text": [120, 200, 255],
+      "tab_background_text": [120, 200, 255],
+      "bookmark_text": [120, 200, 255],
+      "toolbar_button_icon": [120, 200, 255],
+      "ntp_background": [25, 45, 70],
+      "ntp_text": [120, 200, 255],
+      "omnibox_background": [25, 45, 70],
+      "omnibox_text": [120, 200, 255],
+      "omnibox_selected_text": [25, 45, 70],
+      "omnibox_text_selected": [25, 45, 70]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "MatrixGlowTheme",
+  "theme": {
+    "colors": {
+      "frame": [0, 0, 0],
+      "frame_inactive": [0, 0, 0],
+      "toolbar": [10, 10, 10],
+      "toolbar_text": [0, 255, 70],
+      "tab_background_text": [0, 255, 70],
+      "bookmark_text": [0, 255, 70],
+      "toolbar_button_icon": [0, 255, 70],
+      "ntp_background": [10, 10, 10],
+      "ntp_text": [0, 255, 70],
+      "omnibox_background": [10, 10, 10],
+      "omnibox_text": [0, 255, 70],
+      "omnibox_selected_text": [10, 10, 10],
+      "omnibox_text_selected": [10, 10, 10]
+    }
+  }
+}

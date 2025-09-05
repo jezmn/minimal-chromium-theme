@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "DarkForestTheme",
+  "theme": {
+    "colors": {
+      "frame": [15, 20, 15],
+      "frame_inactive": [15, 20, 15],
+      "toolbar": [25, 30, 25],
+      "toolbar_text": [170, 220, 150],
+      "tab_background_text": [170, 220, 150],
+      "bookmark_text": [170, 220, 150],
+      "toolbar_button_icon": [170, 220, 150],
+      "ntp_background": [25, 30, 25],
+      "ntp_text": [170, 220, 150],
+      "omnibox_background": [25, 30, 25],
+      "omnibox_text": [170, 220, 150],
+      "omnibox_selected_text": [25, 30, 25],
+      "omnibox_text_selected": [25, 30, 25]
+    }
+  }
+}
